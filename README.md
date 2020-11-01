@@ -18,7 +18,7 @@ simple introductory artificial intelligence practicals
 - S-conorms : [![colab_link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/binary-ibex/AI-practicals/blob/main/notebooks/s_conorms.ipynb)
 
 
-- Graph data structure : [read about it ](https://github.com/binary-ibex/AI-practicals/blob/main/notebooks/Graph_data_structure.ipynb)
+- Graph data structure : [![Read about it ](https://img.shields.io/badge/R-Read about it-pink)](https://github.com/binary-ibex/AI-practicals/blob/main/notebooks/Graph_data_structure.ipynb)
 
 - Adjacency_list : [![colab_link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/binary-ibex/AI-practicals/blob/main/notebooks/adjacency_list.ipynb)
 
