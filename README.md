@@ -31,5 +31,6 @@ simple introductory artificial intelligence practicals
 - A_star_algorithm : [![colab_link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/binary-ibex/AI-practicals/blob/main/notebooks/A_star_algorithm.ipynb)
 
 
-- Logic gate using neural network : [![colab_link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/binary-ibex/AI-practicals/blob/main/logic_gate_using_neural_network.ipynb)
+- Logic gate using neural network : [![colab_link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/binary-ibex/AI-practicals/blob/main/notebooks/logic_gate_using_neural_network.ipynb)
+
 
